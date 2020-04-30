@@ -1,4 +1,8 @@
 Hello, I am Harshit Singh.
 My name is harsgit singh.
 I study in NIT Trichy.
+<<<<<<< HEAD
 I study ECE.
+=======
+I study in electronics and communication engineering.
+>>>>>>> branch3
